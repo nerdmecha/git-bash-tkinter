@@ -1,0 +1,3 @@
+pip install turtle
+pip install tk
+pip install logging
